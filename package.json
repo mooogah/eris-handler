@@ -1,0 +1,29 @@
+{
+    "name": "eris-handler",
+    "version": "0.0.1",
+    "description": "A Discord bot command and event handler, made with eris.",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node -r dotenv/config src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jedddg/eris-handler.git"
+    },
+    "keywords": [],
+    "author": "jedddg",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/jedddg/eris-handler/issues"
+    },
+    "homepage": "https://github.com/jedddg/eris-handler#readme",
+    "devDependencies": {
+        "dotenv": "^16.0.0",
+        "eslint": "^8.10.0",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "^2.5.1"
+    },
+    "dependencies": {
+        "eris": "^0.16.1"
+    }
+}
