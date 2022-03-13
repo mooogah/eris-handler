@@ -78,7 +78,7 @@ exports.run = async (client) => {
 };
 ```
 
-All event names and arguments/parameters for the event can be found on [the docs[(https://abal.moe/Eris/docs/0.16.1/Client).
+All event names and arguments/parameters for the event can be found on [the docs](https://abal.moe/Eris/docs/0.16.1/Client).
 
 ## Support
 If you have any questions, issues, or inquiries, open an issue.
